@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suchona013
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Web Automation (selenium with python)
+- 🌱 I’m currently learning Web Automation (robot framwork with python)
 - ✨ I'm also learning API testing with Postman
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
